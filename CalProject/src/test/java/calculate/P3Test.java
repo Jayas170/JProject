@@ -1,8 +1,11 @@
 package calculate;
 
+import org.testng.annotations.Test;
+
 public class P3Test {
 
-	public static void main(String[] args) {
+	@Test
+	public void Mul()  {
 		int a=8;
 		int b=4;
 		

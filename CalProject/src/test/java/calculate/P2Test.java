@@ -1,8 +1,11 @@
 package calculate;
 
+import org.testng.annotations.Test;
+
 public class P2Test {
 
-	public static void main(String[] args) {
+	@Test
+	public void Sub() {
 		int a=80;
 		int b=40;
 		
